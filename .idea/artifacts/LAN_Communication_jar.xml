@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="LAN Communication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LAN_Communication_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LAN Communication.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="LAN Communication" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/bcprov-jdk15on-168.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.22.jar" />
+    </root>
+  </artifact>
+</component>

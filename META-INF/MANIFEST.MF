@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: gui.Login
+Class-Path: bcprov-jdk15on-168.jar mysql-connector-java-8.0.22.jar
+
